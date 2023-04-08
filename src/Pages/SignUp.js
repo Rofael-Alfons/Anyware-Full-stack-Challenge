@@ -39,7 +39,7 @@ const SignUp = () => {
         />
         <button type="submit">Log In</button>
       </form>
-      <Link to={"/signIn"}>
+      <Link to={"/"}>
         <button className="link-btn">
           Already have an account? Login here.
         </button>
